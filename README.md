@@ -1,0 +1,2 @@
+# NOTE_GIT
+USING_GIT
